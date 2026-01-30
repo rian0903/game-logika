@@ -57,11 +57,11 @@ export default function LoginPage() {
             type="submit"
             className="w-full bg-gradient-to-r from-blue-600 to-purple-600 text-white text-lg font-bold py-4 rounded-xl shadow-lg hover:shadow-purple-500/30 hover:-translate-y-1 active:scale-[0.98] transition-all duration-200"
           >
-            🚀 Mulai Petualangan
+            🚀 Mulai Test
           </button>
 
           <p className="text-center text-xs text-gray-400 mt-6">
-            Tips: Login sebagai <strong className="text-gray-500">PANITIA</strong> untuk mode pantau.
+            Tips: Cukup Login dengan nama <strong className="text-gray-500">KAMU</strong> untuk memulai test.
           </p>
         </form>
       </div>
