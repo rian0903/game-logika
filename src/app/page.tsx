@@ -32,7 +32,7 @@ export default function LoginPage() {
         <div className="text-center mb-10">
           <span className="inline-block text-5xl md:text-6xl mb-4 animate-bounce">🧠</span>
           <h1 className="text-3xl md:text-5xl font-black text-gray-800 tracking-tight leading-tight">
-            Game Logika <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-purple-600">UTBK</span>
+            Game Logika <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-purple-600">SISWA</span>
           </h1>
           <p className="text-gray-500 mt-3 text-sm md:text-base font-medium">Asah kemampuan logikamu sekarang!</p>
         </div>
